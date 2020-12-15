@@ -34,6 +34,7 @@ annualized_returns = daily_returns.mean() * 250
 np.dot(annualized_returns, weights_1)
 
 portfolio_1 = str(round(np.dot(annualized_returns, weights_1), 5) * 100) + '%'
+portfolio_1
 
 #Simple return on an Unequally Weighted Portfolio 
 weights_2 = np.array([0.2,0.1,0.15,0.25,0.3])
@@ -41,3 +42,4 @@ np.dot(daily_returns, weights_2)
 np.dot(annualized_returns, weights_2)
 
 portfolio_2 = str(round(np.dot(annualized_return, weights_2), 5) * 100) + '%'
+portfolio_2

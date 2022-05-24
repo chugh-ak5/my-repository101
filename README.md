@@ -14,20 +14,10 @@ Simple return analysis on the FAANG and other stocks would provide a notion onto
 As the beta of each stock is different, the returns on equal weights and unequal weights would thereby be different.
 Simple returns can be used on individual securities as well as a portfolio of securities. 
 
-Stocks : 
-
 # Logarithmic Returns on Individual Securities
 Logarithmic returns or log returns are used on individual securities, that way the returns on the securities are normally distributed.
 The log returns of an individual security for a year would be the sum of the daily log returns of that particular security for that year. 
 In order to eliminate the positive bias on individual securities we use log returns rather than simple arithmetic returns so investors would have an average return > 0.
 
-Stocks : 
-
 # Regression Analysis 
 Regression Analysis on the estimation of relationship between a dependent variable and one or more independent variables over a time period.
-
-
-# Multivariate Regression Analysis 
-# Monte Carlo Simulations
-# Markowitz Portfolio Model & Efficient Frontier 
-# CAPM Analysis & Sharpe Ratios
